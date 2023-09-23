@@ -1,0 +1,6 @@
+laptop 20000 5
+phone 10000 5
+headphone 5000 20
+watch 1000 50
+notebook 100 100
+pen 50 1000
